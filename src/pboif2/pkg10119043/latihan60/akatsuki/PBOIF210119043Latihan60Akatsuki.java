@@ -20,6 +20,13 @@ public class PBOIF210119043Latihan60Akatsuki {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //output
+        //Nama :
+        //Asal Desa :
+        //Anggota :
+        //Cincin
+        //Sebab Kematian : 
+        
         System.out.println("=== Daftar Karakter Akatsuki ===");
         Akatsuki anggota1 = new Akatsuki();
         anggota1.setNama("Pain");
